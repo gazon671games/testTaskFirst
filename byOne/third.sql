@@ -1,3 +1,3 @@
 SELECT        AVG(Count)
 FROM            Products INNER JOIN
-                         Sales ON Products.ID = Sales.ID_Product WHERE Products.Name='Τΰνεπΰ'
+                         Sales ON Products.ID = Sales.ID_Product WHERE Products.Name='Π¤Π°Π½ΠµΡ€Π°'
